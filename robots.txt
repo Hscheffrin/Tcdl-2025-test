@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://Hscheffrin.github.io/Tcdl-2025-test
+
+# Sitemaps
+Sitemap: https://Hscheffrin.github.io/Tcdl-2025-test/sitemap.xml
