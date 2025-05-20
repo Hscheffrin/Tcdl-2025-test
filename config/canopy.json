@@ -3,16 +3,12 @@
   "devCollection": "https://cdm16786.contentdm.oclc.org/iiif/2/sm/manifest.json",
   "featured": [
     "https://cdm16786.contentdm.oclc.org/iiif/sm:54/manifest.json",
-    "https://cdm16786.contentdm.oclc.org/iiif/sm:287/manifest.json"
-  ],
+    "https://cdm16786.contentdm.oclc.org/iiif/sm:287/manifest.json",
   "metadata": ["Date", "Subject"],
-  
-  },
-  "theme": {
+  "theme":
     "defaultTheme": "light",
     "accentColor": "sky",
     "grayColor": "mauve",
     "radius": "small",
-    "scaling": "100%"
-  }
+    "scaling": "100%",
 }
